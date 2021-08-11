@@ -1,0 +1,16 @@
+.card {
+  background-color: hsl(277, 64%, 61%);
+}
+
+img {
+  opacity: 0.5;
+}
+
+/* For Tablets and desktops */
+@media screen and (min-width: 540px) and (max-width: 1280px) {
+
+  img {
+    
+  }
+
+}
